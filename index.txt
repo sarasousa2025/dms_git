@@ -1,4 +1,3 @@
 ola!
-git add .
-git commit -m "cumprimentos"
-git push
+adeus
+
